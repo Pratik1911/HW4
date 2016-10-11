@@ -5,7 +5,7 @@ import java.util.List;
 
 
 
-////
+
 public class Inventory implements Serializable {
     String name = "";
     private int averagePrice;

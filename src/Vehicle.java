@@ -18,7 +18,11 @@ public class Vehicle implements Serializable{
         this.retailPrice = retailPrice;
         this.mPG = mPG;
     }
+<<<<<<< HEAD
     //setters set variables//
+=======
+    //setters set variables
+>>>>>>> origin/master
 
     public void setName(String name) {
         this.name = name;
