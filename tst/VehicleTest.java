@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-
+//
 
 public class VehicleTest {
     private Vehicle happyVehicle;
@@ -16,7 +16,7 @@ public class VehicleTest {
         happyVehicle = new Vehicle("Chevy Cruiser", 2010, true, 35000, 14);
         vehicleWith4wd = new Vehicle ("Chevy 3500", 2014, true, 43000, 14);
         vehicleWithout4wd = new Vehicle ("Harley 1200", 1978, false, 2500, 32);
-    }
+    }//
 
     @After
     public void cleanUpEverytime(){

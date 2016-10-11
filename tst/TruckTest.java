@@ -17,7 +17,7 @@ public class TruckTest {
         truckWithStep = new Truck ("Chevy 3500", 2014, true, 43000, 14,true, 32000);
         truckWithoutStep = new Truck ("Ford Ranger", 1978, false, 2500, 32, false, 4000);
     }
-
+    //
     @After
     public void cleanUpEverytime(){
         System.out.println("Cleaning up...");

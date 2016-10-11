@@ -19,7 +19,7 @@ public class DealerTest {
 
     @Test
     public void testHappyCase() {
-
+//
         String name = "Ford";
         int year = 2003;
         int price = 35000;

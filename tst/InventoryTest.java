@@ -22,7 +22,7 @@ public class InventoryTest {
     public void cleanUpEverytime() {
         System.out.println("Cleaning up...");
     }
-
+//
 
     @Test
     public void testAddInventory() {
